@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.bca2b5ee.css",
-    "main.js": "./static/js/main.e033ee74.js",
-    "index.html": "./index.html",
-    "main.bca2b5ee.css.map": "./static/css/main.bca2b5ee.css.map",
-    "main.e033ee74.js.map": "./static/js/main.e033ee74.js.map"
+    "main.css": "/unit-demo-cra-neemkashu/static/css/main.bca2b5ee.css",
+    "main.js": "/unit-demo-cra-neemkashu/static/js/main.2947d8e3.js",
+    "index.html": "/unit-demo-cra-neemkashu/index.html",
+    "main.bca2b5ee.css.map": "/unit-demo-cra-neemkashu/static/css/main.bca2b5ee.css.map",
+    "main.2947d8e3.js.map": "/unit-demo-cra-neemkashu/static/js/main.2947d8e3.js.map"
   },
   "entrypoints": [
     "static/css/main.bca2b5ee.css",
-    "static/js/main.e033ee74.js"
+    "static/js/main.2947d8e3.js"
   ]
 }
